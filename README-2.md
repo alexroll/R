@@ -1,2 +1,0 @@
-# R
-Learning R Programming
